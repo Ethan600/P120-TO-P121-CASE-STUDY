@@ -1,0 +1,49 @@
+
+#gl {
+    width: 100px;
+    height: 100px;
+}
+
+.VS{
+    background-color: orangered;
+    color: aliceblue;
+}
+
+.glspan{
+    font-weight: bolder;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size:25px;
+}
+
+.mobnet{
+    font-family: 'Rubik Wet Paint', cursive;
+    font-size: 30px;
+}
+
+.heading{
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: 'Cinzel Decorative', cursive;
+    width: 100%;
+    margin: 0px;
+}
+
+.test_image_and_result{
+    background-color: gray;
+    color: aquamarine;
+    font-weight: bolder;
+    padding: 30px;
+}
+
+ol h5{
+    padding: 13px;
+}
+
+body{
+    text-align: center;
+}
+
+.mini_result{
+    text-align: center;
+}
+
